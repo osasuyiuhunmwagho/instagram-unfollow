@@ -45,14 +45,13 @@ Welcome to the **Instagram Unfollow Bot**! 🎉 This Python-based bot uses Selen
    USERNAME = "your_username"
    PASSWORD = "your_password"
   
-** Run the bot **:
-
-   ```bash
+## Run the bot:
    python bot.py
 
+ 
 
 
-⚠️ Current Limitations
+## ⚠️ Current Limitations
 🛑 The bot does not yet store or process the lists of followers and unfollowers.
 📉 Error handling and rate-limiting protections need enhancement.
 🌟 Planned Features
@@ -61,9 +60,10 @@ Welcome to the **Instagram Unfollow Bot**! 🎉 This Python-based bot uses Selen
 🔍 Add criteria-based unfollow logic.
 🧰 Enhance error handling and logging.
 🕶️ Support for headless browser mode.
-🤝 Contributing
-## We love contributions! 
-## If you have ideas, suggestions, or want to report bugs, feel free to:
+
+## 🤝 Contributing
+We love contributions! 
+If you have ideas, suggestions, or want to report bugs, feel free to:
 
 Open an issue 📢
 Submit a pull request 🚀
