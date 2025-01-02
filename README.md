@@ -38,14 +38,17 @@ Welcome to the **Instagram Unfollow Bot**! 🎉 This Python-based bot uses Selen
  
   Download ChromeDriver from here.
   Ensure the executable is in your system's PATH or place it in the project directory.
-##▶️ Usage
-Add your Instagram credentials: Open the config.py file and update it with your login details:
+  
+## ▶️ Usage
+- Add your Instagram credentials: Open the config.py file and update it with your login details:
 
-python
-Copy code
-USERNAME = "your_username"
-PASSWORD = "your_password"
-Run the bot:
+   USERNAME = "your_username"
+   PASSWORD = "your_password"
+  
+** Run the bot **:
+
+   ```bash
+   python bot.py
 
 
 
