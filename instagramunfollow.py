@@ -145,8 +145,8 @@ import time
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-username = "suyisarchives_"
-password = "maynosa561"
+username = ""
+password = ""
 
 
 def login(driver):
