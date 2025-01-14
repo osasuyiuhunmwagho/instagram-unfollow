@@ -8,9 +8,7 @@
 # from selenium.webdriver.common.keys import Keys
 # from selenium.common.exceptions import StaleElementReferenceException
 # import time
-  
-# username = "suyisarchives_"
-# password = "maynosa561"
+
 # def login(driver):
        
 #         driver.find_element(By.NAME,"username").send_keys(username)
@@ -147,8 +145,8 @@ import time
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-username = "suyisarchives_"
-password = "maynosa561"
+username = ""
+password = ""
 
 
 def login(driver):
